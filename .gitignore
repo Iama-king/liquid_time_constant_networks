@@ -1,0 +1,13 @@
+# Downloaded datasets (reproducible via download_datasets.sh, per README)
+experiments_with_ltcs/data/
+
+# Experiment outputs
+experiments_with_ltcs/results/
+experiments_with_ltcs/tf_sessions/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
